@@ -1,0 +1,84 @@
+{
+    "users": [
+      {
+        "name": "Danny",
+        "email": "danny@gmail.com",
+        "password": "danny123",
+        "id": 1
+      },
+      {
+        "name": "nanny",
+        "email": "nanny@gmail.com",
+        "password": "nanny123",
+        "id": 2
+      },
+      {
+        "name": "Tech",
+        "email": "tech@gmail.com",
+        "password": "tech123",
+        "id": 3
+      }
+    ],
+    "restaurant": [
+      {
+        "id": 1,
+        "name": "Burger King",
+        "contact": "1234567",
+        "address": "Noida sector 50"
+      },
+      {
+        "id": 2,
+        "name": "Dominos",
+        "contact": "4567123",
+        "address": "Mile 7"
+      },
+      {
+        "name": "KFC",
+        "address": "ELGI CPM",
+        "contact": "345353",
+        "id": 3
+      },
+      {
+        "name": "DDYT",
+        "address": "Mile 15",
+        "contact": "4534523",
+        "id": 4
+      },
+      {
+        "name": "Black Rose",
+        "address": "kribi",
+        "contact": "12567",
+        "id": 5
+      },
+      {
+        "name": "Coffee shop",
+        "address": "kumba",
+        "contact": "456789",
+        "id": 8
+      },
+      {
+        "name": "Phone Shop",
+        "address": "Azire",
+        "contact": "4545730",
+        "id": 9
+      },
+      {
+        "name": "Motor Shop",
+        "address": "Nkwen",
+        "contact": "675464530",
+        "id": 10
+      },
+      {
+        "name": "Graces",
+        "address": "Fon Street",
+        "contact": "22222222",
+        "id": 11
+      },
+      {
+        "name": "Graces",
+        "address": "Fon Street",
+        "contact": "22222222",
+        "id": 12
+      }
+    ]
+  }
